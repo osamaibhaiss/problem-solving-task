@@ -7,7 +7,7 @@ function Footer() {
         <div className="row">
           <div className={styles.footerLeftSide}>
             <div className="styles.logo">
-              <img src="assets/react.svg" /> 
+              <img src="/src/assets/react.svg" /> 
               <a href="#">mangcoding Store</a>
             </div>
             <p>
