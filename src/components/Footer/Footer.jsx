@@ -6,8 +6,8 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className={styles.footerLeftSide}>
-            <div className={styles.logo}>
-              <img src="src/assets/react.svg" /> 
+            <div className="styles.logo">
+              <img src="../src/assets/react.svg" /> 
               <a href="#">mangcoding Store</a>
             </div>
             <p>
@@ -23,13 +23,13 @@ function Footer() {
                 viewBox="0 0 3 7"
                 fill="none"
               >
-                {/* رمز */}
+                
               </svg>
-              {/* باقي الرموز */}
+              
             </div>
           </div>
           <div className={styles.footerRightSide}>
-            <div className={styles.footerItem}>
+            <div className="styles.footerItem">
               <h2>Home</h2>
               <nav>
                 <a href="#">Product</a>

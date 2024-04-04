@@ -8,7 +8,7 @@ function Navbar() {
       <div className='container'>
         <div className='row'>
           <div className="styles.logoContainer">
-        <img src="src/assets/react.svg" alt="Logo" />      
+        <img src="../src/assets/react.svg" alt="Logo" />      
       <a href="#">mangcoding Store</a>
           </div>
           <nav>
